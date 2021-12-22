@@ -49,7 +49,7 @@ Zwar durchlaufen die Teams diese Phasen in der Regel in der aufgeführten Reihen
 
 # Fazit zur Teamentwicklung
 
-Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit sich die Teammitglieder in einem Projekt gegenseitig vertrauen und unterstützen, braucht es geeignetes [Teammanagement](Teammanagement.md). Diese sollten auf die einzelnen [Projektmitarbeiter](Projektmitarbeiter.md), die [Unternehmenswerte](https://de.wikipedia.org/wiki/Unternehmenswert) sowie die Entwicklungsziele abgestimmt werden, um ein Projekt erfolgreich druchzuführen. 
+Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit sich die Teammitglieder in einem Projekt gegenseitig vertrauen und unterstützen, braucht es geeignetes [Teammanagement](Teammanagement.md). Diese sollten auf die einzelnen [Projektmitarbeiter](Projektmitarbeiter.md), die [Unternehmenswerte](https://de.wikipedia.org/wiki/Unternehmenswert) sowie die Entwicklungsziele abgestimmt werden, um ein Projekt erfolgreich druchzuführen[^8]. 
 
 # Siehe auch
 
@@ -72,5 +72,5 @@ Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit si
 [^6]: [Stages of Small-Group Development Revisited](https://webspace.science.uu.nl/~daeme101/Stages%20of%20Small-Group%20Development%20Revisted.pdf)
 [^5]: [Teamphasen nach Tuckman](https://www.wsu-beratung.de/blog/teamphasen)
 [^7]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/)
-[^7]: [Project Management: A Strategic Managerial Approach](https://books.google.de/books?id=ipZXDwAAQBAJ&pg=PA87&lpg=PA87&dq=tuckman+ladder+classic+management&source=bl&ots=Qxn-qMDClZ&sig=ACfU3U31NTWnn_zW8I6ZgZBg6ewJvmwlvQ&hl=de&sa=X&ved=2ahUKEwj_sPSE9fT0AhUGCuwKHVtvBWsQ6AF6BAgtEAM#v=onepage&q=tuckman%20ladder%20classic%20management&f=false)
+[^8]: [Project Management: A Strategic Managerial Approach](https://books.google.de/books?id=ipZXDwAAQBAJ&pg=PA87&lpg=PA87&dq=tuckman+ladder+classic+management&source=bl&ots=Qxn-qMDClZ&sig=ACfU3U31NTWnn_zW8I6ZgZBg6ewJvmwlvQ&hl=de&sa=X&ved=2ahUKEwj_sPSE9fT0AhUGCuwKHVtvBWsQ6AF6BAgtEAM#v=onepage&q=tuckman%20ladder%20classic%20management&f=false)
 [^1]: [Agiles Coaching: Die neue Art, Teams zum Erfolg zu führen](https://books.google.de/books?id=iV6yDwAAQBAJ&lpg=PT335&ots=KQiYmuqrjk&dq=adjourning%20als%20trauerphase&hl=de&pg=PT335#v=onepage&q=adjourning%20als%20trauerphase&f=false)
