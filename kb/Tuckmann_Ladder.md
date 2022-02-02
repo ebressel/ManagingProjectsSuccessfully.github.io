@@ -5,11 +5,11 @@ author: ebressel
 anrechnung: k 
 ---
 
-Im [Projektmanagement](Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit der [Projektmitarbeiter](Projektmitarbeiter.md) mit unterschiedlichen Kompetenzen und Denkweisen - dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte [Teamentwicklung](https://de.wikipedia.org/wiki/Teambildung). Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
+Im [Projektmanagement](Update Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit der [Projektmitarbeiter](Update Projektmitarbeiter.md) mit unterschiedlichen Kompetenzen und Denkweisen - dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte [Teamentwicklung](https://de.wikipedia.org/wiki/Teambildung). Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
 
 # Das Tuckman-Modell der Gruppenentwicklung - Von Diskrepanz zum Wir-Gefühl
 
-Bei der Bildung eines neuen Projektteams, in dem sich die einzelnen Teammitglieder nicht kennen, mit Konflikten gerechnet werden. Zur Bewältigung solcher Konflikte ist es hilfreich, wenn der [Projektleiter](Projektleiter.md) weiß, wie sich Teams in der Regel entwickeln[^1]. Eines der populäreren **klassischen Modelle** der Teamentwicklung ist die so genannte **"Tuckman-Ladder"**(siehe Abbildung 1), die besagt, dass Teams die folgenden Entwicklungsphasen durchlaufen[^2]: 
+Bei der Bildung eines neuen Projektteams, in dem sich die einzelnen Teammitglieder nicht kennen, mit Konflikten gerechnet werden. Zur Bewältigung solcher Konflikte ist es hilfreich, wenn der [Projektleiter](Update Projektleiter.md) weiß, wie sich Teams in der Regel entwickeln[^1]. Eines der populäreren **klassischen Modelle** der Teamentwicklung ist die so genannte **"Tuckman-Ladder"**(siehe Abbildung 1), die besagt, dass Teams die folgenden Entwicklungsphasen durchlaufen[^2]: 
 
 ![Stages_Tuckman_model](https://user-images.githubusercontent.com/92668932/143244002-85eb062a-88a5-4d62-a6bd-6aa6eec4b78a.png)
 
