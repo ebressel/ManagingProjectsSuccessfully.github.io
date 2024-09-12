@@ -5,11 +5,11 @@ author: ebressel
 anrechnung: k 
 ---
 
-Im [Projektmanagement](Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit der [Projektmitarbeiter](Projektmitarbeiter.md) mit unterschiedlichen Kompetenzen und Denkweisen - dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte [Teamentwicklung](https://de.wikipedia.org/wiki/Teambildung). Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
+Im [Projektmanagement](Update Projektmanagement.md) (PM) verlangen viele Aufgaben nach enger Zusammenarbeit der [Projektmitarbeiter](Update Projektmitarbeiter.md) mit unterschiedlichen Kompetenzen und Denkweisen - dafür werden Teams gebildet. Damit diese Teamarbeit nicht im unproduktiven Chaos versinkt, braucht es eine koordinierte [Teamentwicklung](https://de.wikipedia.org/wiki/Teambildung). Im Jahr 1965 entwickelte der Psychologe Bruce Tuckman ein leicht verständliches Modell, das zeigt, wie verschiedene Teams die gleichen Phasen der Gruppenentwicklung durchlaufen[^1].
 
 # Das Tuckman-Modell der Gruppenentwicklung - Von Diskrepanz zum Wir-Gefühl
 
-Bei der Bildung eines neuen Projektteams, in dem sich die einzelnen Teammitglieder nicht kennen, mit Konflikten gerechnet werden. Zur Bewältigung solcher Konflikte ist es hilfreich, wenn der [Projektleiter](Projektleiter.md) weiß, wie sich Teams in der Regel entwickeln[^1]. Eines der populäreren **klassischen Modelle** der Teamentwicklung ist die so genannte **"Tuckman-Ladder"**(siehe Abbildung 1), die besagt, dass Teams die folgenden Entwicklungsphasen durchlaufen[^2]: 
+Bei der Bildung eines neuen Projektteams, in dem sich die einzelnen Teammitglieder nicht kennen, mit Konflikten gerechnet werden. Zur Bewältigung solcher Konflikte ist es hilfreich, wenn der [Projektleiter](Update Projektleiter.md) weiß, wie sich Teams in der Regel entwickeln[^1]. Eines der populäreren **klassischen Modelle** der Teamentwicklung ist die so genannte **"Tuckman-Ladder"**(siehe Abbildung 1), die besagt, dass Teams die folgenden Entwicklungsphasen durchlaufen[^2]: 
 
 ![Stages_Tuckman_model](https://user-images.githubusercontent.com/92668932/143244002-85eb062a-88a5-4d62-a6bd-6aa6eec4b78a.png)
 
@@ -49,7 +49,7 @@ Zwar durchlaufen die Teams diese Phasen in der Regel in der aufgeführten Reihen
 
 # Fazit zur Teamentwicklung
 
-Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit sich die Teammitglieder in einem Projekt gegenseitig vertrauen und unterstützen, braucht es geeignetes [Teammanagement](Teammanagement.md). Diese sollten auf die einzelnen [Projektmitarbeiter](Projektmitarbeiter.md), die [Unternehmenswerte](https://de.wikipedia.org/wiki/Unternehmenswert) sowie die Entwicklungsziele abgestimmt werden, um ein Projekt erfolgreich druchzuführen. 
+Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit sich die Teammitglieder in einem Projekt gegenseitig vertrauen und unterstützen, braucht es geeignetes [Teammanagement](Teammanagement.md). Diese sollten auf die einzelnen [Projektmitarbeiter](Projektmitarbeiter.md), die [Unternehmenswerte](https://de.wikipedia.org/wiki/Unternehmenswert) sowie die Entwicklungsziele abgestimmt werden, um ein Projekt erfolgreich druchzuführen[^8]. 
 
 # Siehe auch
 
@@ -72,5 +72,5 @@ Ein harmonisches Team ist die Basis für ein erfolgreiches Unternehmen. Damit si
 [^6]: [Stages of Small-Group Development Revisited](https://webspace.science.uu.nl/~daeme101/Stages%20of%20Small-Group%20Development%20Revisted.pdf)
 [^5]: [Teamphasen nach Tuckman](https://www.wsu-beratung.de/blog/teamphasen)
 [^7]: [Scheiden tut weh: Adjourning – die unterschätzte Phase im Teamprozess](https://teamworks-gmbh.de/scheiden-tut-weh-adjourning-die-unterschaetzte-phase-im-teamprozess/)
-[^7]: [Project Management: A Strategic Managerial Approach](https://books.google.de/books?id=ipZXDwAAQBAJ&pg=PA87&lpg=PA87&dq=tuckman+ladder+classic+management&source=bl&ots=Qxn-qMDClZ&sig=ACfU3U31NTWnn_zW8I6ZgZBg6ewJvmwlvQ&hl=de&sa=X&ved=2ahUKEwj_sPSE9fT0AhUGCuwKHVtvBWsQ6AF6BAgtEAM#v=onepage&q=tuckman%20ladder%20classic%20management&f=false)
+[^8]: [Project Management: A Strategic Managerial Approach](https://books.google.de/books?id=ipZXDwAAQBAJ&pg=PA87&lpg=PA87&dq=tuckman+ladder+classic+management&source=bl&ots=Qxn-qMDClZ&sig=ACfU3U31NTWnn_zW8I6ZgZBg6ewJvmwlvQ&hl=de&sa=X&ved=2ahUKEwj_sPSE9fT0AhUGCuwKHVtvBWsQ6AF6BAgtEAM#v=onepage&q=tuckman%20ladder%20classic%20management&f=false)
 [^1]: [Agiles Coaching: Die neue Art, Teams zum Erfolg zu führen](https://books.google.de/books?id=iV6yDwAAQBAJ&lpg=PT335&ots=KQiYmuqrjk&dq=adjourning%20als%20trauerphase&hl=de&pg=PT335#v=onepage&q=adjourning%20als%20trauerphase&f=false)
